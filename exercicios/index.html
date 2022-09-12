@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="html5.ico" type="image/x-icon"> <!-- código para colocar favicon -->
+    <title>Exercícios</title>
+    <style> 
+        body{
+            background-color: rgb(231, 231, 231);  
+        }
+    </style> 
+</head>
+<body>
+
+    <h1>Olá, mundo</h1>
+    <p>Meu primeiro exercício HTML.</p>
+    <P>testando parágrafo</P>
+
+    <hr>
+
+    <h1>Parágrafos e quebras de linha</h1>
+    <p>Você pode escrever um parágrafo de qualquer jeito, basta colocar tudo no meio do par de tags &lt;p&gt; e &lt;/p&gt; <!-- LESS THAN / GREATER THAN --></p>
+    <p>Se precisar quebrar o texto em algum lugar específico <br> como esse, você pode usar a tag &lt;br&gt;</p>
+    <p>Vamos adicionar alguns símbolos especiais:
+        &reg;
+        &copy;
+        &trade;
+        &euro;
+        &pound;
+        &yen;
+        &cent;
+        &Delta;
+        &uarr;
+    </p>
+    <p>Vamos adicionar alguns emoji:
+        &#x1F44C;
+    </p>
+
+    <hr>
+
+    <h1>Testando carga de imagens</h1>
+    <p>Abaixo você vai ver uma imagem que está na mesma pasta</p>
+    <img src="html5.png" alt="Logo HTML5">
+    <p>Podemos também carregar imagens que estão em sub-pastas</p>
+    <img src="imagens/css3.jpg" alt="Logo CSS3">
+    <p>Podemos também carregar imagens externas</p>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="Logo JavaScript">
+
+    <hr>
+
+    <h1>Entendendo Portugal</h1>
+    <h2>Introdução</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, saepe ut harum temporibus at, quo vel nam incidunt tempora nulla, nisi sunt omnis ea quam quaerat repellendus asperiores vero animi?</p>
+    <h3>Justificação</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, saepe ut harum temporibus at, quo vel nam incidunt tempora nulla, nisi sunt omnis ea quam quaerat repellendus asperiores vero animi?</p>
+    <h3>Caráter</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, saepe ut harum temporibus at, quo vel nam incidunt tempora nulla, nisi sunt omnis ea quam quaerat repellendus asperiores vero animi?</p>
+    <h3>Perguntas de partida</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, saepe ut harum temporibus at, quo vel nam incidunt tempora nulla, nisi sunt omnis ea quam quaerat repellendus asperiores vero animi?</p>
+    <h3>Metodologia</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, saepe ut harum temporibus at, quo vel nam incidunt tempora nulla, nisi sunt omnis ea quam quaerat repellendus asperiores vero animi?</p>
+    <h2>Ordenamento do território em Portugal</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, saepe ut harum temporibus at, quo vel nam incidunt tempora nulla, nisi sunt omnis ea quam quaerat repellendus asperiores vero animi?</p>
+    <h3>Os instrumentos de gestão</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, saepe ut harum temporibus at, quo vel nam incidunt tempora nulla, nisi sunt omnis ea quam quaerat repellendus asperiores vero animi?</p>
+    <h4>Gestão de pessoal</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, saepe ut harum temporibus at, quo vel nam incidunt tempora nulla, nisi sunt omnis ea quam quaerat repellendus asperiores vero animi?</p>
+
+    <hr>
+
+    <p>Eu moro na rua <address>Marechal, 566</address></p>    
+
+    <hr>
+
+    <h1>Principais formatações</h1>
+    <h2>Negrito/Destaque</h2>
+    <p>Nesta frase temos um <b>termo em negrito</b> usando a tag B (não semântica).</p>
+    <p>Nesta frase temos um <strong>termo em negrito</strong> usando a tag STRONG (semântico).</p>
+    <h2>Itálico/Ênfase</h2>
+    <p>Nesta frase temos um <i>termo em Itálico</i> usando a tag I (não semântico).</p>
+    <p>Nesta frase temos um <em>termo em Itálico</em> usando a tag EM (semântico).</p>
+    <h2>Texto marcado</h2>
+    <p>Podemos criar também <mark style="background-color: lime;">um texto marcado</mark> usando a tag MARK.</p>
+    <h2>Texto grande e pequeno</h2>
+    <p>Estamos criando um <big>texto grande</big> e um <small>texto pequeno</small> nesse parágrafo.</p>
+    <h2>Texto deletado</h2>
+    <p>Podemos marcar <del>um texto como excluído</del> para indicar que ele deve ser lido, mas não considerado</p>
+    <h2>Texto inserido</h2>
+    <p>Podemos marcar <ins>um texto como inserido</ins> para dar uma ênfase e indicar que ele foi adicionado depois.</p>
+    <p>Existe também o <u>sublinhado</u> com a tag U (não semântica).</p>
+    <h2>Texto sobrescrito</h2>
+    <p>Para inserir coisas do tipo x<sup>20</sup>+3</p>
+    <h2>Texto subescrito</h2>
+    <p>Para inserir coisas do tipo como H<sub>2</sub>0</p>
+    <hr>
+    <h1>Outras formatações</h1>
+    <h2>Código-fonte</h2>
+    <p>O comando <code>document.getElementById('teste')</code> é escrito em linguagem JavaScript.</p>
+    <pre>
+        <code>
+        num = int(input('Digite um número'))
+        if num % 2 == 0:
+            print(f'0 número {num} é PAR')
+        else:
+            print(f'0 número {num} é ÍMPAR')
+        print('Fim do programa')
+        </code>
+    </pre>
+    <h2>Citações simples</h2>
+    <p>como diria o pai de um amigo: <q>o computador é um burro muito rápido.</q></p>
+    <h2>Citações completas</h2>
+    <p>Segundo Jeff Hoble, no seu livro HTML para Leigos:</p>
+    <blockquote cite="https://www.google.com.br/books/edition/Construindo_Web_Sites_Para_Leigos_Tradu/xlLcAwAAQBAJ?hl=pt-BR&gbpv=1&dq=html+para+leigos&printsec=frontcover">
+        A diferença entre elementos inline e um bloco de texto é importante. Os elementos HTML neste capítulo descrevem os blocos de texto.
+    </blockquote>
+    <h2>Abreviações</h2>
+    <p>Estou estudando <abbr title="HyperText Markup Language">HTML</abbr> e <abbr title="Cascading Style Sheets">CSS</abbr>. Estou adorando</p>
+    <h2>Texto invertido</h2>
+    <p><bdo dir="rtl">Estou aprendendo a criar coisas em HTML.</bdo></p>
+    <hr>
+    <h1>Trabalhando com Listas</h1>
+    <h2>Listas Ordenadas</h2>
+    <ol>
+        <li>Acordar</li>
+        <li>Ligar para João</li>
+        <li>Tomar café</li>
+        <li>Escovar os dentes</li>
+    </ol>
+    <ol type="1" start="4">
+        <li>Acordar</li>
+        <li>Ligar para João</li>
+        <li>Tomar café</li>
+        <li>Escovar os dentes</li>
+    </ol>
+    <ol type="A">
+        <li>Acordar</li>
+        <li>Ligar para João</li>
+        <li>Tomar café</li>
+        <li>Escovar os dentes</li>
+    </ol>
+    <ol type="I">
+        <li>Acordar</li>
+        <li>Ligar para João</li>
+        <li>Tomar café</li>
+        <li>Escovar os dentes</li>
+    </ol>
+    <h2>Listas não ordenadas</h2>
+    <ul>
+        <li>Pão</li>
+        <li>Leite</li>
+        <li>Tomate</li>
+        <li>Arroz</li>
+        <li>Feijão</li>
+    </ul>
+    <ul type="disc">
+        <li>Pão</li>
+        <li>Leite</li>
+        <li>Tomate</li>
+        <li>Arroz</li>
+        <li>Feijão</li>
+    </ul>
+    <ul type="circle">
+        <li>Pão</li>
+        <li>Leite</li>
+        <li>Tomate</li>
+        <li>Arroz</li>
+        <li>Feijão</li>
+    </ul>
+    <ul type="square">
+        <li>Pão</li>
+        <li>Leite</li>
+        <li>Tomate</li>
+        <li>Arroz</li>
+        <li>Feijão</li>
+    </ul>
+    <h2>Minhas linguagens favoritas</h2>
+    <ol>
+        <li>Antigas</li>
+        <ol type="a">
+            <li>Clipper</li>
+            <li>Visual Basic</li>
+            <li>Fortran</li>
+            <li>Delphi</li>
+        </ol>
+        <li>Novas</li>
+        <ol type="a" start="5">
+            <li>PHP</li>
+            <li>Pyton</li>
+            <li>JavaScript</li>
+            <li>Kotlin</li>
+        </ol>
+    </ol>
+    <h2>Meus jogos favoritos</h2>
+    <ol>
+        <li>NES</li>
+        <ul type="square">
+            <li>Mario</li>
+            <ul type="circle">
+                <li>Mario Bros 3</li>
+                <li>Mario Lost Levels</li>
+            </ul>
+            <li>Ninja</li>
+        </ul>
+        <li>SNES</li>
+        <ul type="square">
+            <li>Mario</li>
+            <li>Donkey Kong</li>
+        </ul>
+        <li>Playstation</li>
+        <ul type="square">
+            <li>FIFA</li>
+            <li>PES</li>
+        </ul>
+    </ol>
+    <h2>Lista de Definições</h2>
+    <dl>
+        <dt>Termo</dt>
+        <dd>Descrição</dd>
+        <dt>HTML</dt>
+        <dd>Linguagem de marcação para a criação do conteúdo de um site.</dd>
+        <dt>CSS</dt>
+        <dd>Linguagem de marcação para a criação do design de um site.</dd>
+        <dt>JavaScript</dt>
+        <dd>Linguegem de programação para a criação de interatividade de um site.</dd>
+    </dl>
+    <hr>
+    <h1>Usando links externos</h1>
+    <p>Você pode acessar o meu <a href="https://gustavoguanabara.github.io/" target="_blank" rel="external">repositório público no GitHub.</a></p>
+    <p>Você também pode acessar o meu <a href="https://youtube.com/cursoemvideo" target="_blank" rel="external">canal gratuito no Youtube.</a></p>
+    <hr>
+    <h1>Usando links internos</h1>
+    <p>Esta é a primeira página do site. Se você quiser, pode acessar também a minha <a href="pag02.html" rel="next">segunda página.</a></p>
+    <p>Você também pode acessar a nossa <a href="noticias/pag03.html" rel="next" target="_self">página de notícias.</a></p>
+    <hr>
+    <h1>Links para download</h1>
+    <ul>
+        <li><a href="livro/projeto.pdf" download="projeto.pdf" type="application/pdf">Baixar o livro em PDF</a></li>
+        <li><a href="livro/projeto.rar" download="projeto.rar" type="application/rar">Baixar o livro compactado</a></li>
+    </ul>
+    <hr>
+    <h1>Mídias em HTML5</h1>
+    <h2>Imagem dinâmica</h2>
+    <p>Tente abrir esse site em vários dispositivos diferentes ou simplesmente aumente e dinimua o tamanho do seu navegador.</p>
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="Imagem flexível">
+    </picture>
+    <hr>
+    <h2>Reproduzindo áudio</h2>
+    <p>Vamos aprender a reproduzir áudios em HTML5.</p>
+    <audio src="midias/telecasted.mp3" controls autoplay></audio>
+    <br>
+    <audio preload="metadata" controls loop>
+        <source src="midias/telecasted.mp3" type="audio/mpeg">
+        <source src="midias/telecasted.ogg" type="audio/ogg">
+        <source src="midias/telecasted.wav" type="audio/wav">
+        <p>Infelizmente seu navegador não consegue reproduzir áudio. <a href="midias/telecasted.mp3">Clique aqui para baixar o arquivo mp3</a> </p>
+    </audio>
+    <hr>
+    <h1>Vídeos em HTML5</h1>
+    <h2>Inserindo vídeos hospedados localmente</h2>
+    <p>Este vídeo está hospedado no meu próprio servidor.</p>
+    <video src="midias/cerveja-full.mp4" controls></video>
+    <hr>
+    <video width="560" height="300" controls poster="imagens/thumb.png" loop autoplay> 
+        <source src="midias/cerveja.m4v" type="video/mp4">
+        <source src="midias/cerveja-full.mp4" type="video/mp4">
+        <source src="midias/cerveja.webm" type="video/webm">
+        <source src="midias/cerveja.ogg" type="video/ogg">
+        <p>Seu navegador não tem compatibilidade com reprodução de vídeos.</p>
+    </video>
+    <hr>
+    <h2>Inserindo vídeos do Youtube</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Rsj_z43oNRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <hr>
+    <h2>Inserindo vídeos do Vímeo</h2>
+    <iframe src="https://player.vimeo.com/video/740426857?h=e1291f2247&color=ffffff&portrait=0&badge=0" width="560" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+    <hr>
+    
+    <hr>
+</body>
+</html>
