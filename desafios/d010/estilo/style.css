@@ -210,6 +210,10 @@ form {
 div.linha {
     background-color: red;
     height: 20px;
-    width: 200px;
+    width: 100px;
     margin-top: 5px;
+}
+
+div.linha > p {
+    color: white;
 }
