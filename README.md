@@ -3,8 +3,8 @@
  
  Gerenciando repositórios.!
 
- <a href="https://felipejlc.github.io/html-css/exercicios"> Executar os exercícios </a>
+ <a href="https://felipejlc.github.io/html-css/exercicios" target="blank"> Executar os exercícios </a>
  <br>
- <a href="https://felipejlc.github.io/html-css/desafios/d009"> Executar desafio 9 </a>
+ <a href="https://felipejlc.github.io/html-css/desafios/d009" target="blank"> Executar desafio 9 </a>
  <br>
- <a href="https://felipejlc.github.io/html-css/desafios/d010/android.html"> Projeto Android! </a>
+ <a href="https://felipejlc.github.io/html-css/desafios/d010/android.html" target="blank"> Projeto Android! </a>
