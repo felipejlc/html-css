@@ -9,4 +9,4 @@
  <br>
  <p><a href="https://felipejlc.github.io/html-css/desafios/d012/index.html" target="blank"> Projeto Android </a></p>
  <br>
- <p> PRÓXIMA AULA = Capítulo 20 Aula 03 – Ajustes no HTML do projeto </p>
+ <p> PRÓXIMA AULA = Capítulo 20 Aula 04 – Ajustes no CSS do projeto </p>
