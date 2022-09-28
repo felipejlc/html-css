@@ -1,7 +1,5 @@
 # html-css
  Curso de HTML5 e CSS3 do Curso em Vídeo
- 
- Gerenciando repositórios.!
 
  <p><a href="https://felipejlc.github.io/html-css/desafios/d010/android.html" target="blank"> Projeto Android </a></p>
  <br>
