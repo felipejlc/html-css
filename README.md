@@ -5,7 +5,7 @@
 
  <a href="https://felipejlc.github.io/html-css/desafios/d010/android.html" target="blank"> Projeto Android </a>
  <br>
- <p> Para acessar o projeto pelo link <a href="https://felipejlc.github.io/projeto-android" target="blank"> Clique aqui - https://felipejlc.github.io/projeto-android </p>
+ <p> Para acessar o projeto pelo link <a href="https://felipejlc.github.io/projeto-android" target="blank"> Clique aqui - https://felipejlc.github.io/projeto-android </a> </p>
  <br>
  <a href="https://felipejlc.github.io/html-css/exercicios/ex022/fundo007.html" target="blank"> Ex22 - último exercício feito </a>
  <br>
