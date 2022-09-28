@@ -7,6 +7,6 @@
  <br>
  <p><a href="https://felipejlc.github.io/html-css/exercicios/ex022/fundo007.html" target="blank"> Ex22 - último exercício feito </a></p>
  <br>
- <p><a href="https://felipejlc.github.io/html-css/desafios/d012/" target="blank"> Projeto Android </a></p>
+ <p><a href="https://felipejlc.github.io/html-css/desafios/d012/index.html" target="blank"> Projeto Android </a></p>
  <br>
  <p> PRÓXIMA AULA = Capítulo 20 Aula 03 – Ajustes no HTML do projeto </p>
