@@ -9,4 +9,4 @@
  <br>
  <p><a href="https://felipejlc.github.io/html-css/desafios/d012/index.html" target="blank"> Desafio 12 - Projeto Cordel </a></p>
  <br>
- <p> PRÓXIMA AULA = Capítulo 20 Aula 05 – Colocando as fontes ao projeto </p>
+ <p> PRÓXIMA AULA = Capítulo 20 Aula 06 – Imagens com efeito Parallax simples </p>
