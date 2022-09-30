@@ -6,4 +6,4 @@
  <br>
  <p><a href="https://felipejlc.github.io/html-css/exercicios/ex023/tabela001.html" target="blank"> Ex23 - último exercício feito </a></p>
  <br>
- <p> PRÓXIMA AULA = Capítulo 21 Aula 03 – Alinhando o conteúdo em tabelas</p>
+ <p> PRÓXIMA AULA = Capítulo 21 Aula 04 – Aprendendo a trabalhar com tabelas grandes</p>
