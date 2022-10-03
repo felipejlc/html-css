@@ -6,4 +6,4 @@
  <br>
  <p><a href="https://felipejlc.github.io/html-css/exercicios/ex023/tabela002.html" target="blank"> Ex23 - último exercício feito </a></p>
  <br>
- <p> PRÓXIMA AULA = Capítulo 21 Aula 07 – Cabeçalho fixo em tabelas grandes </p>
+ <p> PRÓXIMA AULA = Capítulo 21 Aula 09 – Desafios (parte 1)</p>
