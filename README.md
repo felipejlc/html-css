@@ -6,4 +6,4 @@
  <br>
  <p><a href="https://felipejlc.github.io/html-css/exercicios/ex023/tabela003.html" target="blank"> Ex23 - último exercício feito </a></p>
  <br>
- <p> PRÓXIMA AULA = Capítulo 21 Aula 09 – Desafios (parte 1)</p>
+ <p> PRÓXIMA AULA = Capítulo 21 Aula 12 – Desafios (parte 2)</p>
