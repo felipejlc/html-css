@@ -1,9 +1,8 @@
 # html-css
  Curso de HTML5 e CSS3 do Curso em Vídeo
- <p><a href="https://felipejlc.github.io/html-css/desafios/d010/android.html" target="blank"> Desafio 10 - Projeto Android </a>LINK PUBLICADO <strong>https://felipejlc.github.io/projeto-android</strong></p>
+<br>
+ <p><a href="https://felipejlc.github.io/html-css/desafios/d014/index.html" target="blank"> Desafio 14 - último desafio feito</a></p>
  <br>
- <p><a href="https://felipejlc.github.io/html-css/desafios/d012/index.html" target="blank"> Desafio 12 - Projeto Cordel </a>LINK PUBLICADO <strong>https://felipejlc.github.io/projeto-cordel</strong></p>
+ <p><a href="https://felipejlc.github.io/html-css/exercicios/ex023/tabela004.html" target="blank"> Ex23 - último exercício feito </a></p>
  <br>
- <p><a href="https://felipejlc.github.io/html-css/exercicios/ex023/tabela003.html" target="blank"> Ex23 - último exercício feito </a></p>
- <br>
- <p> PRÓXIMA AULA = Capítulo 21 Aula 12 – Desafios (parte 2)</p>
+ <p> PRÓXIMA AULA = Capítulo 21 Aula 13 – Agrupando Colunas com colgroup</p>

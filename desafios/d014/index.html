@@ -16,15 +16,23 @@
 
         }
 
-        caption {
-            font-size: 1.1em;
-            font-weight: bold;
-            padding: 10px;
-        }
-
         th, td {
             border: 1px solid black;
             padding: 10px;
+            text-align: center;
+        }
+
+        tr.destaque {
+            background-color: gray;
+            color: white;
+        }
+
+        td.left {
+            text-align: left;
+        }
+
+        th.left {
+            text-align: left;
         }
     </style>
 </head>
@@ -34,16 +42,14 @@
         colspan - pra direita 
     -->
     <table>
-        <caption> </caption>
-        
         <thead>
-            <tr>
+            <tr class="destaque">
                 <th rowspan="2">Área</th>
                 <th rowspan="2">Disciplinas</th>
                 <th colspan="2">Notas</th>
                 <th rowspan="2">Média</th>
             </tr>
-            <tr>
+            <tr class="destaque">
                 <th>Nota 1</th>
                 <th>Nota 2</th>
             </tr>
@@ -51,42 +57,50 @@
         
         <tbody>
             <tr>
-                <th rowspan="3" scope="rowgroup">Mulheres</th>
-                <td>Ana Maria Santos</td>
-                <td>Alien</td>
-                <td>Rambo</td>
-                <td>Vingadores</td>
+                <th rowspan="4">Exatas</th>
+                <td class="left">Matemática</td>
+                <td>0.0</td>
+                <td>0.0</td>
+                <td>0.0</td>
             </tr>
             <tr>
-                <td>Beatriz Souza</td>
-                <td>Hulk</td>
-                <td>Inception</td>
-                <td>Batman</td>
+                <td class="left">Física</td>
+                <td>0.0</td>
+                <td>0.0</td>
+                <td>0.0</td>
             </tr>
             <tr>
-                <td>Cláudia Melo</td>
-                <td>Oblivion</td>
-                <td>Matrix</td>
-                <td>Big Hero</td>
+                <td class="left">Química</td>
+                <td>0.0</td>
+                <td>0.0</td>
+                <td>0.0</td>
             </tr>
             <tr>
-                <th rowspan="3" scope="rowgroup">Homens</th>
-                <td>Bruno Mendonça</td>
-                <td>Intocáveis</td>
-                <td>Amnésia</td>
-                <td>Gladiador</td>
+                <td class="left">Biologia</td>
+                <td>0.0</td>
+                <td>0.0</td>
+                <td>0.0</td>
+            </tr>
+            <tr class="destaque">
+                <th colspan="4" class="left">Média de Exatas</th>
+                <td>0.0</td>
             </tr>
             <tr>
-                <td>Daniel Lourenço</td>
-                <td>Wall-E</td>
-                <td>Oldboy</td>
-                <td>Dangal</td>
+                <th rowspan="2">Humanas</th>
+                <td class="left">História</td>
+                <td>0.0</td>
+                <td>0.0</td>
+                <td>0.0</td>
             </tr>
             <tr>
-                <td>Fabiano Mota</td>
-                <td>Star Wars</td>
-                <td>Taxi Driver</td>
-                <td>Toy Story</td>
+                <td class="left">Geografia</td>
+                <td>0.0</td>
+                <td>0.0</td>
+                <td>0.0</td>
+            </tr>
+            <tr class="destaque">
+                <th colspan="4" class="left">Média de Humanas</th>
+                <td>0.0</td>
             </tr>
         </tbody>
     </table>
