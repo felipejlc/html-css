@@ -5,4 +5,4 @@
  <br>
  <p><a href="https://felipejlc.github.io/html-css/exercicios/ex024/iframe005.html" target="blank"> Ex24 - último exercício feito </a></p>
  <br>
- <p>PRÓXIMA AULA = Capítulo 23 Aula 1 – Criando um projeto do zero </p>
+ <p>PRÓXIMA AULA = Capítulo 23 Aula 2 – Vamos começar o projeto</p>
