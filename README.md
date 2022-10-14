@@ -5,4 +5,4 @@
  <br>
  <p><a href="https://felipejlc.github.io/html-css/exercicios/ex024/iframe005.html" target="blank"> Ex24 - último exercício feito </a></p>
  <br>
- <p>PRÓXIMA AULA = Capítulo 24 Aula 3 – Métodos GET e POST para formulários</p>
+ <p>PRÓXIMA AULA = Capítulo 24 Aula 05 – Elementos number, month, date e time em formulários HTML</p>
