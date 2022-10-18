@@ -5,4 +5,4 @@
  <br>
  <p><a href="https://felipejlc.github.io/html-css/exercicios/ex025/form003.html" target="blank"> Ex25 - último exercício feito </a></p>
  <br>
- <p>PRÓXIMA AULA = Capítulo 24 Aula 06 – Compatibilidade com navegadores </p>
+ <p>PRÓXIMA AULA = Capítulo 24 Aula 08 – Checkbox e Radio button em HTML </p>
