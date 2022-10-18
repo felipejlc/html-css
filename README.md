@@ -5,4 +5,4 @@
  <br>
  <p><a href="https://felipejlc.github.io/html-css/exercicios/ex025/form010.html" target="blank"> Ex25 - último exercício feito </a></p>
  <br>
- <p>PRÓXIMA AULA = Capítulo 24 Aula 11 – Elemento output em formulários HTML</p>
+ <p>PRÓXIMA AULA = Capítulo 25 Aula 01 – O que são Media Queries em CSS</p>
