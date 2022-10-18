@@ -5,4 +5,4 @@
  <br>
  <p><a href="https://felipejlc.github.io/html-css/exercicios/ex025/form010.html" target="blank"> Ex25 - último exercício feito </a></p>
  <br>
- <p>PRÓXIMA AULA = Capítulo 25 Aula 01 – O que são Media Queries em CSS</p>
+ <p>PRÓXIMA AULA = Capítulo 25 Aula 02 – Criando um site com versão para impressora</p>
