@@ -3,6 +3,6 @@
 <br>
  <p><a href="https://felipejlc.github.io/html-css/desafios/d014/index.html" target="blank"> Desafio 14 - último desafio feito</a></p>
  <br>
- <p><a href="https://felipejlc.github.io/html-css/exercicios/ex026/mq002/index.html" target="blank"> Ex26 - último exercício feito </a></p>
+ <p><a href="https://felipejlc.github.io/html-css/exercicios/ex026/mq003/index.html" target="blank"> Ex26 - último exercício feito </a></p>
  <br>
- <p>PRÓXIMA AULA = Capítulo 25 Aula 05 – Reunindo tudo em um único CSS</p>
+ <p>PRÓXIMA AULA = Capítulo 25 Aula 06 – Mobile First</p>
