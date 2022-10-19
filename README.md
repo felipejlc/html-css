@@ -3,6 +3,6 @@
 <br>
  <p><a href="https://felipejlc.github.io/html-css/desafios/d014/index.html" target="blank"> Desafio 14 - último desafio feito</a></p>
  <br>
- <p><a href="https://felipejlc.github.io/html-css/exercicios/ex026/mq001/index.html" target="blank"> Ex26 - último exercício feito </a></p>
+ <p><a href="https://felipejlc.github.io/html-css/exercicios/ex026/mq002/index.html" target="blank"> Ex26 - último exercício feito </a></p>
  <br>
- <p>PRÓXIMA AULA = Capítulo 25 Aula 03 – Múltiplas Media Features com CSS </p>
+ <p>PRÓXIMA AULA = Capítulo 25 Aula 04 – Seguindo a orientação do dispositivo</p>
