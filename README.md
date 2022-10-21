@@ -9,6 +9,10 @@
     Exercício 026 - último exercício feito
 </a>
 <br>
+<a href="https://felipejlc.github.io/projeto-android/index.html" target="blank"> 
+    Projeto Android
+</a>
+<br>
 <a href="https://felipejlc.github.io/projeto-cordel/index.html" target="blank"> 
     Projeto Cordel
 </a>
