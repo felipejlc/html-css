@@ -1,5 +1,4 @@
 # html-css
- <link rel="stylesheet" href="style.css">
  Curso de HTML5 e CSS3 do Curso em Vídeo
 <br>
  <p>
@@ -8,10 +7,10 @@
 
  <br>
 
- <p>
- <a href="https://felipejlc.github.io/html-css/exercicios/ex026/mq005/index.html" target="blank"> Ex26 - último exercício feito</a>
- </p>
+ <a href="https://felipejlc.github.io/html-css/exercicios/ex026/mq005/index.html" target="blank"> 
+    <img src="https://felipejlc.github.io/html-css/exercicios/imagens/meusite_ex026.png"> 
+</a>
 
- <br>
-
- <img src="https://felipejlc.github.io/html-css/exercicios/imagens/google.png">
+ <a href="https://felipejlc.github.io/projeto-login/index.html" target="blank"> 
+    <img src="https://felipejlc.github.io/html-css/exercicios/imagens/tela_login_proj.png"> 
+</a>
