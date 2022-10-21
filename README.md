@@ -13,6 +13,4 @@
 
  <br>
 
- <img src="exercicio/imagens/google.png">
- <img src="html-css/exercicio/imagens/css3.jpg">
  <img src="https://felipejlc.github.io/html-css/exercicios/imagens/google.png">
