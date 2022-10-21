@@ -8,13 +8,12 @@
 <br>
 
 <a href="https://felipejlc.github.io/html-css/exercicios/ex026/mq005/index.html" target="blank"> 
-   <img src="https://felipejlc.github.io/html-css/exercicios/imagens/meusite_ex026.png"> 
+   <img src="https://felipejlc.github.io/html-css/exercicios/imagens/meusite_ex026.PNG"> 
 </a>
 
 <a href="https://felipejlc.github.io/projeto-login/index.html" target="blank"> 
-   <img src="https://felipejlc.github.io/html-css/exercicios/imagens/tela_login_proj.png"> 
+   <img src="https://felipejlc.github.io/html-css/exercicios/imagens/tela_login_proj.PNG"> 
 </a>
 
 <img src="https://felipejlc.github.io/html-css/exercicios/imagens/google.png">
 <img src="https://felipejlc.github.io/html-css/exercicios/imagens/tela_login_proj.png">
-<img src="https://felipejlc.github.io/html-css/exercicios/imagens/meusite_ex026.png">
