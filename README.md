@@ -12,5 +12,5 @@
  </p>
 
  <br>
- 
- <img src="imagens/google.png">
+
+ <img src="exercicio/imagens/google.png">
